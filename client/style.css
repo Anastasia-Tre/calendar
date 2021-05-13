@@ -1,0 +1,43 @@
+.datepicker-date-display
+{  
+  background-color: #4a148c;  
+}
+
+.datepicker-calendar-container {
+    color: black;
+}
+.is-today {
+    color: black !important;
+
+}
+.datepicker-table td.is-selected {
+    background: #4a148c !important;
+}
+.datepicker-cancel, .datepicker-done {
+    color: #4a148c;
+}
+
+.dropdown-content li>a, .dropdown-content li>span{
+    color: black;
+}    
+
+.timepicker-digital-display {
+    background-color: #4a148c
+}
+
+.timepicker-close {
+    color: #4a148c
+}
+
+.timepicker-canvas-bg,
+.timepicker-canvas-bearing {
+    fill: #4a148c !important
+}
+
+.timepicker-canvas line {
+    stroke: #4a148c
+}
+
+.timepicker-tick:hover {
+    background-color: #4a148c
+}
